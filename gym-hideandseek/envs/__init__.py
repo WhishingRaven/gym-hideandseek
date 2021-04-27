@@ -1,0 +1,2 @@
+from gym_hideandseek.envs.hideandseek_env import hideandseekEnv
+from gym_hideandseek.envs.hideandseek_extrahard_env import hideandseekExtraHardEnv
